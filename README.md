@@ -54,7 +54,7 @@ These hosts should give you some sort of admin panel that you can access and fro
 
 These hosts should offer you the ability to create and manage your own MySQL Database. There should be a Database section in your admin panel that allows you to manage and create new databases. **Remember**: make a strong 20 character or more password for your database!
 
-Once you've got a MySQL instance setup, launch PHPMyAdmin from your MySQL dashboard. Then, when your inside PHPMyAdmin, locate the __new__ link at the top of the left pane of the PHPMyAdmin dashboard and create give the database a name and create it. Then locate the import tab at the top! Once there, you should find a browse files button. Click that and locate the bsky_share.sql file inside your BlueskyCheckpoint directory where we originally pulled down the Bluesky Checkpoint project. 
+Once you've got a MySQL instance setup, launch PHPMyAdmin from your MySQL dashboard. Then, when your inside PHPMyAdmin, locate the __new__ link at the top of the left pane of the PHPMyAdmin dashboard and give the database a name and create it. Then locate the import tab at the top! Once there, you should find a browse files button. Click that and locate the bsky_share.sql file inside your BlueskyCheckpoint directory where we originally pulled down the Bluesky Checkpoint project. 
 
 Now let's go to connection.php (these hosts should offer you the ability to edit your files right there within the panel. if not edit connection.php on your computer and then reupload and replace it in the panel).
 
