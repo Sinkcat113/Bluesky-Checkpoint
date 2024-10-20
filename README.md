@@ -5,7 +5,7 @@ Bluesky Checkpoints is a little project I started and have hosted on my domain s
 
 # Setting your own instance
 
-Setting up your own instance is pretty easy! I will show a run down of how you can either self host it or, have it hosted via a VPS that supports PHP 8.x!.
+Setting up your own instance is pretty easy! I will show a run down of how you can have it hosted via a VPS or hosting provider that supports PHP 8.x!.
 
 So first things first is to go to a location on your computer in your terminal (for this I'm using command prompt on Windows but this process should be the exact same on both MacOS and Linux!)
 
