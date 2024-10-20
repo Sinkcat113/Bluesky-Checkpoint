@@ -21,6 +21,7 @@ After that run the following command in the Git Bash application while still in 
 ```bash
 git clone https://github.com/Sinkcat113/Bluesky-Checkpoint.git .
 ```
+(Alternatively you can just download it as a zip if the command line is not something you're comfortable with.)
 
 Okay after that let's open that folder in your text editor of choice! 
 
