@@ -206,3 +206,41 @@ span {
     width: 30px;
     height: 30px;
 }
+
+.bottom-nav {
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
+    border-top-style: solid;
+    border-color: #2e4052;
+    border-width: 1px;
+    background-color: #161e27;
+    display: flex;
+    justify-content: space-evenly;
+    display: none;
+}
+
+@media only screen and (max-width: 600px) {
+    .bottom-nav {
+        display: flex;
+        padding: 5px;
+    }
+
+    .nav {
+        display: none;
+    }
+
+    .nav-option {
+        text-align: center;
+        background-color: #d1e7ff10;
+    }
+
+    .nav-option-selected {
+        text-align: center;
+    }
+
+    .github {
+        padding: 5px;
+    }
+}
