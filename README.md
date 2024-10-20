@@ -3,7 +3,7 @@
 Bluesky Checkpoints is a little project I started and have hosted on my domain so when people find my Bluesky account which is also my domain they can connect to more people!
 
 
-# Setting your own instance
+# Setting up your own instance
 
 Setting up your own instance is pretty easy! I will show a run down of how you can have it hosted via a VPS or hosting provider that supports PHP 8.x!.
 
