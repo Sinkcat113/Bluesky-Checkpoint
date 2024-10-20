@@ -243,4 +243,17 @@ span {
     .github {
         padding: 5px;
     }
+
+    .view {
+        width: 100dvw;
+    }
+
+    .intro {
+        width: 300px;
+    }
+
+    .form-wrapper {
+        width: 300px;
+        margin-bottom: 100px;
+    }
 }
