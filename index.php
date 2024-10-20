@@ -48,12 +48,14 @@ include "connection.php";
                     echo "
                         <button class=nav-option-selected>Checkpoint Form</button>
                         <a href=/?nav=disc><button class=nav-option>Discover</button></a>
+                        <a target=_blank href=https://github.com/Sinkcat113/Bluesky-Checkpoint /><img class=github src=./github.png /></a>
                     ";
                 } else if ($_GET['nav'] === "disc")
                 {
                     echo "
                         <a href=/?nav=chckpt /><button class=nav-option>Checkpoint Form</button></a>
                         <button class=nav-option-selected>Discover</button>
+                        <a target=_blank href=https://github.com/Sinkcat113/Bluesky-Checkpoint /><img class=github src=./github.png /></a>
                     ";
                 }
             ?>
@@ -86,7 +88,6 @@ include "connection.php";
                                 <br>
                                 <p class=content-p><b>NOTE: </b>Bluesky Checkpoints is in no way officially related to Bluesky itself this is just a fun idea I thought I'd throw together to get more people engaging!</p>
                             </div>
-
                         ";
                         break;
                     case "disc":
