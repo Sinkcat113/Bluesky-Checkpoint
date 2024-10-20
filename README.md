@@ -9,3 +9,4 @@ Setting up your own instance is pretty easy! All you really need to do is just c
 
 
 ## Enjoy!
+This project is in no way associated with Bluesky itself!
