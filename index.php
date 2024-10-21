@@ -86,7 +86,7 @@ include "connection.php";
                                     </div>
                                 </form>
                                 <br>
-                                <p class=content-p><b>NOTE: </b>Bluesky Checkpoints is in no way officially related to Bluesky itself this is just a fun idea I thought I'd throw together to get more people engaging!</p>
+                                <p class=content-p><b>NOTE: </b>Bluesky Checkpoints is in no way officially related to Bluesky itself.</p>
                             </div>
                         ";
                         break;
