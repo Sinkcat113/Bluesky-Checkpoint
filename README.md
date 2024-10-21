@@ -12,6 +12,7 @@ So first things first is to go to a location on your computer in your terminal (
 ```
 cd C:\
 mkdir BlueskyCheckpoint
+cd BlueskyCheckpoint
 ```
 
 Now we're going to install Git from their official website find it here: https://git-scm.com/downloads
